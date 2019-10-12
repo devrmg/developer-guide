@@ -12,6 +12,6 @@
 ## Roteiro DevOps
 ![](https://raw.githubusercontent.com/devrmg/developer-guide/master/Roteiro-DevOps.png)
 
-## Roteiro Mobile
+## Roteiro IOS
 ![](https://raw.githubusercontent.com/devrmg/developer-guide/master/Roteiro-Dev-Mobile.png)
 
