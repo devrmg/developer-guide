@@ -3,7 +3,7 @@
  
  
 <h4>As habilidades que todos os desenvolvedores precisam, independentemente de sua especialização
-    Além desses caminhos, Kamran também recomenda que todos que desejam trabalhar como desenvolvedor aprendam as seguintes habilidades:</4>
+    Além desses caminhos, Kamran também recomenda que todos que desejam trabalhar como desenvolvedor aprendam as seguintes habilidades:</h4>
 
 <p>Git - Controle de Versão
     O Git é um poderoso sistema de controle de versão que, a partir de 2019, é usado quase universalmente. Se você não o conhece - sim, está relacionado ao GitHub e ao GitLab e também pode aprender a usar essas ferramentas.</p>
